@@ -1,0 +1,14 @@
+GET https://3000-testakun-playground-oxuoodyvr3i.ws-us45.gitpod.io/product
+
+###
+GET https://3000-testakun-playground-oxuoodyvr3i.ws-us45.gitpod.io/product/627d9539d9946239fcf876d2
+
+###
+POST https://3000-testakun-playground-oxuoodyvr3i.ws-us45.gitpod.io/product
+Content-Type: application/json
+
+{
+    "title": "Product 2",
+    "price": 2002
+}
+ 
